@@ -1,0 +1,7 @@
+D:\my_workspace\Development\projects\C#\csharp-mssql-console\dbquery\dbquery\bin\Debug\dbquery.exe.config
+D:\my_workspace\Development\projects\C#\csharp-mssql-console\dbquery\dbquery\bin\Debug\dbquery.exe
+D:\my_workspace\Development\projects\C#\csharp-mssql-console\dbquery\dbquery\bin\Debug\dbquery.pdb
+D:\my_workspace\Development\projects\C#\csharp-mssql-console\dbquery\dbquery\obj\Debug\dbquery.csproj.AssemblyReference.cache
+D:\my_workspace\Development\projects\C#\csharp-mssql-console\dbquery\dbquery\obj\Debug\dbquery.csproj.CoreCompileInputs.cache
+D:\my_workspace\Development\projects\C#\csharp-mssql-console\dbquery\dbquery\obj\Debug\dbquery.exe
+D:\my_workspace\Development\projects\C#\csharp-mssql-console\dbquery\dbquery\obj\Debug\dbquery.pdb
